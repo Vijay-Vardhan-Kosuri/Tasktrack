@@ -1,0 +1,58 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f1;
+    color: #28352b;
+    min-height: 100vh;
+}
+
+header {
+    background-color: #315c45;
+    color: white;
+    padding: 25px 8%;
+}
+
+header h1 {
+    font-size: 28px;
+    margin-bottom: 8px;
+}
+
+main {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 0 20px;
+}
+
+.welcome {
+    background-color: #dcebdc;
+    padding: 35px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+}
+
+.welcome h2 {
+    margin-bottom: 12px;
+}
+
+.task-section {
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    min-height: 180px;
+}
+
+.task-section h2 {
+    margin-bottom: 15px;
+}
+
+footer {
+    text-align: center;
+    padding: 25px;
+    color: #687568;
+}
